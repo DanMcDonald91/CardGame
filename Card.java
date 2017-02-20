@@ -12,4 +12,20 @@ public class Card{
     this.rank = rank;
   }
 
-  
+  // Card Methods
+
+public String getSuit(){
+  return this.suit;
+  }
+
+
+  public int getCardValue(){
+    return this.value;
+  }
+
+  public String getCardRank() {
+    return this.rank;
+  }
+
+
+}

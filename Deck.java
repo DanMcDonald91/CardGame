@@ -1,15 +1,14 @@
-package CardGame;
-import java.util*;
+// package CardGame;
+// import java.util*;
 
 
-public class Deck{
+// public class Deck{
 
-  private ArrayList<Card> cardDeck;
+//   private ArrayList<Card> cardDeck;
 
-  public Deck() {
-    this.cardDeck = new ArrayList(Card)();
-  }
+//   public Deck() {
+//     this.cardDeck = new ArrayList(Card)();
+//   }
 
-  // Deck Methods
+//   // Deck Methods
 
-}
